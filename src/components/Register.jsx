@@ -20,7 +20,7 @@ const handlechange =(e)=>{
  const name= e.target.id
 
  setData({...data , [name]: value})
-console.log(e.target.id)
+// console.log(e.target.id)
 
 }
 
